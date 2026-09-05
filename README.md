@@ -48,3 +48,4 @@ Preservar a los 3 mejores individuos acelera la convergencia hacia el máximo gl
 ## Archivos
 
 ejercicio_4.py / ejercicio_4.ipynb: implementación completa que incluye la comparación de convergencia entre elitismo clásico (k = 1) y elitismo ampliado (k = 3) con su respectiva gráfica.
+ejercicio_4.py / ejercicio_4.ipynb: implementación completa que incluye la comparación de convergencia entre elitismo clásico (k = 1) y elitismo ampliado (k = 3) con su respectiva gráfica.
